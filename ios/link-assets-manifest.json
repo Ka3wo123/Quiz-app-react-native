@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Kalnia Bold.ttf",
+      "sha1": "0b1a9f4b8f9aaaf043a89f1d920370d88403e8c2"
+    },
+    {
+      "path": "assets/fonts/Kalnia Regular.ttf",
+      "sha1": "875b09ba5484b5543229e7f32959c0884c7c4762"
+    },
+    {
+      "path": "assets/fonts/KalniaExpanded Bold.ttf",
+      "sha1": "cf1c3d71114cf68c71ea4d59f87010b76d998246"
+    },
+    {
+      "path": "assets/fonts/Rakkas Regular.ttf",
+      "sha1": "68734c9c6b3120ddba1fad89c6333d5d765ee2c0"
+    }
+  ]
+}
